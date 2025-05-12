@@ -1,6 +1,6 @@
-# 💰 FinTech – Personal Finance Tracker
+# 💰 FinTech 
 
-**FinTech** is a modern **personal finance tracker** that allows users to create accounts, track expenses, and manage transactions efficiently.  
+**FinTech** is a modern **AI finance tracker** that allows users to create accounts, track expenses, and manage transactions efficiently.  
 Designed for simplicity and security, it supports smart features like **receipt scanning**, **real-time updates**, and **automated transaction handling**.
 
 With FinTech, staying in control of your finances is easier than ever — whether you're managing personal spending or monitoring financial habits over time.
