@@ -14,7 +14,6 @@ With FinTech, staying in control of your finances is easier than ever — whethe
 - 🧾 Scan receipts to auto-log transactions  
 - 🔁 Handle multiple concurrent transactions  
 - 🔐 Robust backend security architecture  
-- 🌗 Dark/light mode support  
 
 ---
 
@@ -66,3 +65,16 @@ npx prisma generate
 
 # Start the app
 npm run dev
+
+## Structure
+
+.
+├── app/                  # Next.js App directory
+├── components/           # Reusable UI components
+├── prisma/               # Prisma schema and migrations
+├── pages/                # Fallback API or special routes (if any)
+├── public/               # Static assets
+├── styles/               # Tailwind configuration
+├── .env                  # Environment variables
+└── README.md             # This file
+
