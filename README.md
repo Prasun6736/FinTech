@@ -66,8 +66,8 @@ npx prisma generate
 # Start the app
 npm run dev
 
-## Structure
 
+📁 Project Structure
 .
 ├── app/                  # Next.js App directory
 ├── components/           # Reusable UI components
