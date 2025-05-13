@@ -38,14 +38,6 @@ With FinTech, staying in control of your finances is easier than ever — whethe
 - **Arcjet**: Secures API endpoints with protections like rate limiting and bot prevention.
 - **Next.js**: Handles routing, UI rendering, API logic, and server-side processing.
 
----
-
-## 🎥 Demo Video
-
-📽️ **Watch the Demo**  
-[![FinTech Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
----
 
 ## 🚀 Getting Started (Local)
 
